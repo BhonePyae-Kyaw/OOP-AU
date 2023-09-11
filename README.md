@@ -14,3 +14,11 @@ Target study - static method, Looping through string, string.length(), string me
 ## week4 workshop
 Summary - Checking the statistical middle values (mean, mode, median).
 Target study - random generated array and getting more familar with mathematical operators and types
+
+## week5 workshop
+Summary - TicTacToe game using Java.
+Target study - multidimensional arrays in Java
+
+## week6 workshop
+Summary - Dice rolling game using Java.
+Target study - Object-oriented programming, constructor, class, field.
